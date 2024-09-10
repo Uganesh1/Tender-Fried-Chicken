@@ -51,7 +51,7 @@
 .section-center {
     padding: 4rem 0;
     width: 85vw;
-    margin: auto;
+    margin: 0 auto;
     max-width: 1170px;
 }
 
@@ -62,6 +62,17 @@
 }
 
 .section-title {
+    margin-bottom: 2rem;
+    margin-top: 0%;
+}
+
+.section-title-service h3 {
+    font-family: var(--ff-design);
+    color: var(--clr-primary);
+    font-size: 2rem;
+}
+
+.section-title-service {
     margin-bottom: 2rem;
 }
 
@@ -360,7 +371,8 @@ p{
 
 /*************************** About ***************************/
 
-.about-img, .about-info {
+.about-img, 
+.about-info {
 padding: 2rem 0;
 }
 
@@ -370,7 +382,6 @@ padding: 2rem 0;
     box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);
     border-radius: 5px;
     overflow: hidden;
-   
 }
 
 .about-picture {
@@ -387,14 +398,15 @@ padding: 2rem 0;
 }
 
 @media screen and (min-width: 992px) {
-    .about-img, .about-info {
+    .about-img, 
+    .about-info{
         float: left;
         width: 50%;
     }
-
     .about-info{
         padding-left: 2rem;
     }
+   
 }
 
 /****************** Products ******************/
@@ -464,15 +476,19 @@ padding: 2rem 0;
     .product{
         margin: 0;
         padding: 0 1rem;
+        margin-top: 1rem;
     }
 }
 
 /***************** Service  *****************/
 
-.section-title {
+
+
+.section-title-service {
     text-align: center;
     margin-top: 4rem;
-    margin-bottom: 4rem;
+   
+    
 }
 
 .service-card {
@@ -546,6 +562,7 @@ padding: 2rem 0;
     width: 45%;
     float: left;
     margin-right: 5%;
+    margin-top: 2%;
     }
 }
 
@@ -564,7 +581,7 @@ padding: 2rem 0;
 
 .contact-form,
 .contact-info {
-    margin: 1rem 0;
+    margin: 4rem 0;
 }
 
 .contact-title {
