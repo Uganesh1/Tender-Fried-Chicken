@@ -41,6 +41,7 @@ This project was created as part of my web development journey to practice respo
 
    👨‍💻 Author
 Uganesh – Founder of Cosmic Bytes
+
 🔗 [LinkedIn](https://www.linkedin.com/in/uganesh-developer/)
 
 🔗 [GitHub](https://github.com/Uganesh1)
