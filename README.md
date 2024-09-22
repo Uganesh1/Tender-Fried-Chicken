@@ -16,7 +16,7 @@ Welcome to **Tender Fried Chicken** – a delicious and crispy experience served
 
 ## 📸 Preview
 
-![Tender Fried Chicken](https://via.placeholder.com/800x400.png?text=Website+Preview+Coming+Soon)
+![Tender Fried Chicken](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME/blob/main/Preview/Screenshot%202024-09-22%20204853.png)
 
 ---
 
@@ -38,3 +38,8 @@ This project was created as part of my web development journey to practice respo
 1. Clone the repository:
    ```bash
    git clone https://github.com/Uganesh1/Tender-Fried-Chicken.git
+
+   👨‍💻 Author
+Uganesh – Founder of Cosmic Bytes
+🔗 [LinkedIn](https://www.linkedin.com/in/uganesh-developer/)
+🔗 [GitHub](https://github.com/Uganesh1)
