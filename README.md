@@ -40,7 +40,6 @@ This project was created as part of my web development journey to practice respo
    ```bash
    git clone https://github.com/Uganesh1/Tender-Fried-Chicken.git
 
-
 👨‍💻 Author
 Uganesh – Founder of Cosmic Bytes
 
