@@ -36,6 +36,7 @@ This project was created as part of my web development journey to practice respo
 ## 📂 How to Use
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/Uganesh1/Tender-Fried-Chicken.git
 
