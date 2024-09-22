@@ -16,7 +16,7 @@ Welcome to **Tender Fried Chicken** – a delicious and crispy experience served
 
 ## 📸 Preview
 
-![Tender Fried Chicken](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME/blob/main/Preview/Screenshot%202024-09-22%20204853.png)
+![Tender Fried Chicken](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME/blob/main/Preview/Screenshot%202024-09-22%20204853.png?raw=true)
 
 ---
 
